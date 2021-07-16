@@ -1,6 +1,6 @@
 # Programowanie obiektowe
  #### Temat projektu: **Porównywarka internetowych kantorów walut**
- #### Link do githuba: https://github.com/olekczubiak/currency-exchange
+ #### Link do githuba: https://github.com/jan-koprowski/currency-exchange
  
  #### Schemat działania aplikacji:
 
